@@ -1,0 +1,4 @@
+secrets.yaml
+*.db
+*.log
+lutron_caseta_pro*

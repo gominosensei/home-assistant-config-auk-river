@@ -1,0 +1,8 @@
+auth*
+http
+mobile_app
+zha.storage
+core.*
+person
+homekit_controller-entity-map
+frontend.*
